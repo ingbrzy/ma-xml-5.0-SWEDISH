@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Importera</string>
-  <string name="access_sd_fail">"Kunde inte komma SD-kort."</string>
+  <string name="access_sd_fail">"Kunde inte komma åt SD-kort."</string>
   <string name="accessibility_back_to_first_level">Nära kontroll inställningar</string>
   <string name="accessibility_camera_picker">Främre och bakre kamera switch</string>
   <string name="accessibility_decrement">Minska %1$s</string>
