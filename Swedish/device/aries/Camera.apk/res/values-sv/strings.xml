@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Import">Import</string>
-  <string name="access_sd_fail">"Couldn't access SD card."</string>
-  <string name="accessibility_back_to_first_level">Close setting controls</string>
-  <string name="accessibility_camera_picker">Front and back camera switch</string>
-  <string name="accessibility_decrement">Decrease %1$s</string>
-  <string name="accessibility_increment">Increase %1$s</string>
-  <string name="accessibility_mode_picker">Camera, video, or panorama selector</string>
-  <string name="accessibility_review_thumbnail">Most recent photo</string>
-  <string name="accessibility_second_level_indicators">More setting controls</string>
+  <string name="Import">Importera</string>
+  <string name="access_sd_fail">"Kunde inte komma SD-kort."</string>
+  <string name="accessibility_back_to_first_level">Nära kontroll inställningar</string>
+  <string name="accessibility_camera_picker">Främre och bakre kamera switch</string>
+  <string name="accessibility_decrement">Minska %1$s</string>
+  <string name="accessibility_increment">Öka %1$s</string>
+  <string name="accessibility_mode_picker">kamera, video, ellr panorama väljare</string>
+  <string name="accessibility_review_thumbnail">Senaste foto</string>
+  <string name="accessibility_second_level_indicators">Mer kontroll inställningar</string>
   <string name="accessibility_shutter_button">Shutter button</string>
-  <string name="accessibility_switch">%1$s switch</string>
-  <string name="accessibility_switch_to_camera">Switch to camera</string>
-  <string name="accessibility_switch_to_panorama">Switch to panorama</string>
-  <string name="accessibility_switch_to_video">Switch to video</string>
-  <string name="accessibility_zoom_control">Zoom control</string>
-  <string name="albums">Albums</string>
+  <string name="accessibility_switch">%1$s växla</string>
+  <string name="accessibility_switch_to_camera">Växla till kamera</string>
+  <string name="accessibility_switch_to_panorama">Växla till panorama</string>
+  <string name="accessibility_switch_to_video">Växla till video</string>
+  <string name="accessibility_zoom_control">Zoom kontroll</string>
+  <string name="albums">Album</string>
   <string name="aperture">Aperture</string>
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Set your device down, step out of view for a moment"</string>
