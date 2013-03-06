@@ -87,7 +87,7 @@
   <string name="findlost_contact_online">Återställ borttagna kontakter från cloud</string>
   <string name="guarded_mode_dialog_message">Kan inte kopiera/Återställa i bevakat läge</string>
   <string name="guarded_mode_dialog_title">Bevakat läge</string>
-  <string name="import_from_xiaomi_account_hint1">"1.Installera MiTalk och logga in.\n http://www.miliao.com\n\n3. Ange inställningar för MiTalk och välj \"kopiera kontakter till Xiaomi konto"</string>
+  <string name="import_from_xiaomi_account_hint1">"1.Installera MiTalk och logga in.\n http://www.miliao.com\n\n3.  Ange inställningar för MiTalk och välj \"kopiera kontakter till Xiaomi konto"</string>
   <string name="import_from_xiaomi_account_hint2">Obs: Fortsätt till nästa steg om kopia redan finns</string>
   <string name="import_from_xiaomi_account_hint_title">Använd MiTalk för att kopiera kontakter på andra enheter, inte MI-ONE</string>
   <string name="local_app_name">Backup</string>
