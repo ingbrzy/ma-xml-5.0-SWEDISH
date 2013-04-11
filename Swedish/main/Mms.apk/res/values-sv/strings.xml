@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Cannot find a program to open the attachment</string>
   <string name="activity_not_found_uri">Cannot find a program for this</string>
