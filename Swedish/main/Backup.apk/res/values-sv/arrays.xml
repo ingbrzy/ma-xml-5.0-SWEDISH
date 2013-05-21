@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>WiFi-data</item>
+        <item>Alla applikationer</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Webbläsare</item>
+        <item>Filhanterare</item>
+        <item>Galleri</item>
+        <item>Rättigheter</item>
+        <item>Väder</item>
+	    <item>Kamera</item>
+        <item>Nätverksassistent</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Kontakter</item>
+        <item>Samtalslogg</item>
+        <item>Meddelanden</item>
+        <item>Multimediameddelanden</item>
+        <item>Systeminställningar</item>
+        <item>WiFi-inställningar</item>
+        <item>Skrivbordslayout</item>
+        <item>Alarminställningar</item>
+        <item>Anteckningar</item>
+        <item>DND</item>
+        <item>Konto</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Data</item>
+        <item>Appar</item>
+        <item>Appar och Data</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Kontakter</item>
+        <item>Samtalslogg</item>
+        <item>Meddelanden</item>
+        <item>WiFi-inställningar</item>
+        <item>Anteckningar</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Kontakter</item>
+        <item>WiFi-inställningar</item>
+        <item>Anteckningar</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Samtalsloggar</item>
+        <item>Meddelanden</item>
+    </string-array>
+</resources>
