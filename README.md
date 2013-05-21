@@ -2,3 +2,5 @@ ma-xml-5.0-SWEDISH
 ==================
 
 MIUIv5 XML SWEDISH TRANSLATION
+
+NOT READY FOR RELEASE
