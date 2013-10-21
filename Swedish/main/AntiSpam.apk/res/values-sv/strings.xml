@@ -24,7 +24,7 @@
   <string name="add_blacklist">Lägg till i svarta listan</string>
   <string name="add_button">Lägg till</string>
   <string name="add_whitelist">Lägg till i vita listan</string>
-  <string name="anti_private_summary">Blockera samt logga samtal från hemligt nummer/string>
+  <string name="anti_private_summary">Blockera samt logga samtal från hemligt nummer</string>
   <string name="anti_private_title">Blockera hemliga nummer</string>
   <string name="anti_stranger_summary">Filtrera bort nummer ej i kontaktboken</string>
   <string name="anti_stranger_title">Okänd-filter</string>
